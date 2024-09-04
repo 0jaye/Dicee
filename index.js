@@ -26,7 +26,7 @@ if (diceNumber1>diceNumber2) {
 }else if (diceNumber1<diceNumber2) {
     document.querySelector("h1").innerHTML="Player 2 wins!🚩";
 }else if(diceNumber1===diceNumber2){
-    document.querySelector("h1").innerHTML="Draw!";
+    document.querySelector("h1").innerHTML="🤝Draw!🤝";
 
 }
 
